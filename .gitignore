@@ -48,3 +48,6 @@ nosetests.xml
 *.fdb_latexmk
 *.synctex.gz
 paper.pdf
+
+#UMLS
+umls_tables
