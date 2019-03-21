@@ -1,2 +1,2 @@
 GENIA None
-UMLS None
+UMLS umls_tables
