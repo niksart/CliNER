@@ -27,6 +27,8 @@ feat_genia=None
 if enabled['GENIA']:
     from .genia_dir.genia_features import GeniaFeatures
 
+import sys
+sys.path.append("/home/niksart/CliNER/code/feature_extraction/")
 
 # Only create UMLS cache if module is available
 if enabled['UMLS']:
